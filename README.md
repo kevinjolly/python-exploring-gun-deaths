@@ -1,5 +1,6 @@
 # python-exploring-gun-deaths
-Using python programming concepts to explore gun deaths in the U.S
+
+Python programming concepts to explore gun deaths in the U.S by finding patterns in the demographics of the victims.
 
 The dataset gives us information on the following columns: 
 
