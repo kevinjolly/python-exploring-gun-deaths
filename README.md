@@ -13,7 +13,7 @@ The dataset gives us information on the following columns:
 - **age** -- the age of the victim.
 - **race** -- the race of the victim. Either Asian/Pacific Islander, Native American/Native Alaskan, Black, Hispanic, or White.
 - **hispanic** -- a code indicating the Hispanic origin of the victim.
-- **place** -- where the shooting occurred. Has several categories, which you're encouraged to explore on your own.
+- **place** -- where the shooting occurred. 
 - **education** -- educational status of the victim. Can be one of the following:
 1 -- Less than High School
 2 -- Graduated from High School or equivalent
